@@ -7,3 +7,5 @@ Additional changes on my readme.
 Some more changes.
 
 Even more changes.
+
+Additional information on github.
