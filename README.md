@@ -10,6 +10,11 @@ Even more changes.
 
 Additional information on github.
 
+## These are my own changes
+bla bla bla
+
+Jurriaan making some changes
+
 # Changes Lars is asking for
 xxxxx
 
