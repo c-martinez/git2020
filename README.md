@@ -12,3 +12,6 @@ Additional information on github.
 
 ## These are my own changes
 bla bla bla
+
+Jurriaan making some changes
+
